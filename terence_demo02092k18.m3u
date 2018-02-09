@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1,TFC (US/CA)
+http://p4.giffy.be:8080/live/demo/demo/21540.ts
+#EXTINF:-1,GMA LIFE
+http://p4.giffy.be:8080/live/demo/demo/23092.ts
+#EXTINF:-1,GMA NEWS
+http://p4.giffy.be:8080/live/demo/demo/23091.ts
+#EXTINF:-1,GMA PINOY
+http://p4.giffy.be:8080/live/demo/demo/23090.ts
